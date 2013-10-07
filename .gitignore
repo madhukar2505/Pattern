@@ -1,0 +1,10 @@
+*.class
+
+# Package Files #
+tmp/
+/eclipse/
+*.pyc
+/.project
+/.settings
+*.bak
+/.classpath
